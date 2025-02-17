@@ -19,10 +19,10 @@
 | 許玟琪   | 309707011 | Jenny    | 財金碩一                    | WenC09 |
 | 羅芷羚   | 313707002 | Irene    | 資財碩一                    | chihling830 |
 | 李麒安   | 313707041 | Ricky    | 財金碩一                    | CHI-AN-LI |
-| 陳宜湄   | 313707031 | Megan    | 碩一                        | 11mei |
+| 陳宜湄   | 313707031 | Megan    | 資財碩一                        | 11mei |
 | 曾繁承   | 313707042 | Allen    | 資財碩一                    | mofuer |
 | 陳昱橙   | 512717027 | Anthony  | 碩專二                      | yuchengchen3011 |
-| 熊芝     | 313707038 | Edwin    | 財金碩一                    | edwin10414 |
+| 熊芝     | 313707038 | Chris    | 財金碩一                    | edwin10414 |
 | 邵靖皓   | 313707034 | Alan     | 財金碩一                    | [alanshao1026](https://github.com/alanshao1026) |
 | 鄭詠融   | 313652028 | Martin   | 應數碩一                    | [GitHub](https://github.com/wdianrdk) |
 | 陳弘偉   | 313707054 | Wei      | 資財碩一                    | HungWei729 |
